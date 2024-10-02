@@ -12,5 +12,5 @@ To jest szablon bota Discord opartego na **Discord.js v14**. Projekt zapewnia po
 ## Wymagania
 
 - **Node.js** v16.9.0 lub nowszy
-- **npm** (do zarządzania paczkami)
+- **npm** (do zarządzania modułami)
 - Konto Discord i utworzona aplikacja [na Discord Developer Portal](https://discord.com/developers/applications).
